@@ -30,7 +30,8 @@ describe("Multiply", () => {
 });
 ```
 ## Work experience:
-Сoming soon
+Сoming soon...
+ In the process...
 
 CV https://github.com/NikBandurovich/rsschool-cv/blob/gh-pages/cv.md
 ## Courses:
